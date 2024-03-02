@@ -1,5 +1,6 @@
 # Blood Gulch
-Our founders wanted to escape the monster our families were becoming.
+Our founders wanted to escape the monster our families were becoming
+![[Pasted image 20240301214715.png]]
 
 ## Details
 **Location:** Coastal
