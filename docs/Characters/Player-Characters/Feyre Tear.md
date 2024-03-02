@@ -2,8 +2,11 @@
 
 ## Character details
 **Lineage:** 
+
 **Class:** 
+
 **player:** David
+
 
 ### visual discription
 wip

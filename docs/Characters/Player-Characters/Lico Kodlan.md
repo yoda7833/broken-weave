@@ -2,8 +2,11 @@
 
 ## Character details
 **Lineage:** Halfling
+
 **Class:** Seeker
+
 **player:** Justice
+
 
 ### visual discription
 wip

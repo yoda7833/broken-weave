@@ -2,8 +2,11 @@
 
 ## Character details
 **Lineage:** 
+
 **Class:** 
+
 **player:** Liz
+
 
 ### visual discription
 wip

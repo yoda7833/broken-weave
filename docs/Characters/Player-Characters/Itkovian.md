@@ -2,8 +2,11 @@
 
 ## Character details
 **Lineage:** Forgotten
+
 **Class:** Speaker
+
 **player:** Navin
+
 
 ### visual discription
 wip

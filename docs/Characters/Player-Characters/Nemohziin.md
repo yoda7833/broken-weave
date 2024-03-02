@@ -2,8 +2,11 @@
 
 ## Character details
 **Lineage:** Forgotten
+
 **Class:** Speaker
+
 **Player:** Jay
+
 
 ### visual discription
 wip
