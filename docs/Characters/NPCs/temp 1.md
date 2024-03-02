@@ -1,2 +1,2 @@
 Future charater because art was cool
-![[Pasted image 20240301211942.png]]
+![image](https://media.discordapp.net/attachments/158304630076342273/1213349078440615986/file-xmw95XaGYzzgvP6l9x1UoF4e.png?ex=65f52663&is=65e2b163&hm=f8a45cb5b87fa23d9f5215d63ef87691cd1cd17b83af3638e3ce48e58bc01f91&=&format=webp&quality=lossless&width=1365&height=1365)
