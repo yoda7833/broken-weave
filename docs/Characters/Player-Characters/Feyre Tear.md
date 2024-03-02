@@ -1,9 +1,9 @@
 # Feyre Tear
 
 ## Character details
-**Lineage:** 
+**Lineage:** Human
 
-**Class:** 
+**Class:** Warden
 
 **player:** David
 

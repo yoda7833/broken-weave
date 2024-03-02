@@ -1,9 +1,12 @@
 # Guspra Hermanhed
 
 ## Character details
-**Lineage:** 
-**Class:** 
+**Lineage:** Elf
+
+**Class:** Maker
+
 **player:** Chris
+
 
 ### visual discription
 wip

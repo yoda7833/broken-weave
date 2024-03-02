@@ -1,9 +1,9 @@
 # Anastasia
 
 ## Character details
-**Lineage:** 
+**Lineage:** Elf
 
-**Class:** 
+**Class:** Sage
 
 **player:** Liz
 
