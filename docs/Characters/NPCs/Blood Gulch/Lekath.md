@@ -3,6 +3,7 @@
 ## Character details
 **Lineage:** Halfling
 
+**Location:** [[Blood Gulch]]
 
 ### visual discription
 wip

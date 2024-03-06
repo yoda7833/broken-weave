@@ -3,6 +3,8 @@
 ## Character details
 **Lineage:** Dwarf
 
+**Location:** [[Blood Gulch]]
+
 **Occupation:** Militia
 
 
