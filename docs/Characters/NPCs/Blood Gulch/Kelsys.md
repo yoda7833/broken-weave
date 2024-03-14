@@ -12,6 +12,6 @@ wip
 ## Interaction Notes
 
 ## Backstory
-Mother of [[Lico Kodlan]]
+Sister of [[Lico Kodlan]]
 
 #character #npc
