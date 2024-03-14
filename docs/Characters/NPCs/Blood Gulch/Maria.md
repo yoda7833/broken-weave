@@ -1,7 +1,7 @@
 # Thibble
 
 ## Character details
-**Lineage:** Dwarf
+**Lineage:** Forgotten
 
 **Location:** [[Blood Gulch]]
 
