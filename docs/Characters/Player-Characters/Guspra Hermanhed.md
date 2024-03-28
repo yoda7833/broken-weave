@@ -10,13 +10,13 @@
 **Player:** Chris
 
 
-### Visual Description:
+### Visual Description
 A dark skinned Elf sitting at around 6 feet and 4 inches tall. Quite skinny with small patches of his skin appearing similar to the shine and texture of polished crystal. 
 Bald with light brown eyes and is currently sitting at around the age of 32.
 (If you want to visualize him just think of an Elf version of Gus Fring).
 
 
-### Backstory:
+### Backstory
 [[Guspra Hermanhed]] was born into a small haven not too dissimilar to the one where the current campaign takes place; wherein his family owned and operated
 a highly acclaimed healing house within which he worked to assist the citizens of his haven by perfecting his own abilities as a maker. He studied under his father, an accomplished alchemist, which spurned his own desire to become an alchemist. 
 
